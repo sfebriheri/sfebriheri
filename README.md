@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**sfebriheri/sfebriheri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+はじめまして, 皆さん
+My name is Febry and I'm a tech enthusiast, especially Backend Engineer and Infrastructure skills. 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on PT Varnion Technology Semesta
+- 🌱 I’m currently learning Go and PHP
+- 👯 I’m looking to collaborate on GitHub
+- 📫 How to reach me: Linkedin and X
+- ⚡ Fun fact: Coffee enthusiast and 本の虫
+
+よろしくお願いします
+  

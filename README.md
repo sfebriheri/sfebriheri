@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Go and PHP
 - 👯 I’m looking to collaborate on GitHub
 - 📫 How to reach me: Linkedin and X
-- ⚡ Fun fact: Coffee enthusiast and 本の虫
+- ⚡ Fun fact: Coffee enthusiast ☕and 本の虫 📚
 
 よろしくお願いします
   

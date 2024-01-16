@@ -5,7 +5,7 @@ My name is Febry and I'm a tech enthusiast, especially Backend Engineer and Infr
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on PT Varnion Technology Semesta
+- 🔭 I’m currently Freelancer
 - 🌱 I’m currently learning Go and PHP
 - 👯 I’m looking to collaborate on GitHub
 - 📫 How to reach me: Linkedin and X

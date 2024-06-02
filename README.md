@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Linkedin and X
 - ⚡ Fun fact: Coffee enthusiast ☕and 本の虫 📚
 
-よろしくお願いします
+Tesekkur ederim :)
   

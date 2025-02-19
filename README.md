@@ -26,6 +26,6 @@ Reliable importer 📊
 📊 **GitHub Stats**
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Sfebriheri&show_icons=true&theme=dark" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sfebriheri&theme=dark" alt="GitHub Streak" />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sfebriheri&theme=dark" alt="GitHub Streak" /> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sfebriheri&layout=compact&theme=dark" alt="GitHub Languages" />
 </p>

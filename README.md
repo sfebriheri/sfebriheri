@@ -4,6 +4,8 @@
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/pip1902)
 
 
+Fun facts from me :
+
 Aquarians  ♒
 Coffee addict  ☕
 Reliable importer 📊
@@ -24,8 +26,10 @@ Reliable importer 📊
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=Linux)
 
 📊 **GitHub Stats**
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sfebriheri&show_icons=true&theme=dark" alt="GitHub Stats" />
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sfebriheri&theme=dark" alt="GitHub Streak" /> -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sfebriheri&layout=compact&theme=dark" alt="GitHub Languages" />
-</p>
+<div>
+  <p align="ljustify">
+     <img src="https://github-readme-stats.vercel.app/api?username=Sfebriheri&show_icons=true&theme=dark" alt="GitHub Stats" />
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sfebriheri&theme=dark" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sfebriheri&layout=compact&theme=dark" alt="GitHub Languages"/>
+  </p>
+</div>

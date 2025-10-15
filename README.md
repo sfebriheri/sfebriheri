@@ -1,35 +1,36 @@
-# Sfebriheri
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sfebriheri&color=blueviolet)
-[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/pip1902)
+###
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-Fun facts from me :
+###
 
-Aquarians  ♒
-Coffee addict  ☕
-Reliable importer 📊
-
-### Skills
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=HTML)
-![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=CSS)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript)
-![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=SQL)
-![Go](https://img.shields.io/badge/Go-000?style=for-the-badge&logo=Go)
-![Ruby](https://img.shields.io/badge/Ruby-000?style=for-the-badge&logo=Ruby)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python)
-![Bash](https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=Bash)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=Git)
-![Gitlab](https://img.shields.io/badge/Gitlab-000?style=for-the-badge&logo=Gitlab)
-![CI/CD](https://img.shields.io/badge/CI/CD-000?style=for-the-badge&logo=CI/CD)
-![Laravel](https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=Laravel)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=Linux)
-
-📊 **GitHub Stats**
-<div>
-  <p align="ljustify">
-     <img src="https://github-readme-stats.vercel.app/api?username=Sfebriheri&show_icons=true&theme=dark" alt="GitHub Stats"/>
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sfebriheri&theme=dark" alt="GitHub Streak"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sfebriheri&layout=compact&theme=dark" alt="GitHub Languages"/>
-  </p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###

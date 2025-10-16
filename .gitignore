@@ -1,0 +1,5 @@
+# Ignore embedded repository folder
+profile-readme-generator/
+
+# Ignore dependencies in root repo
+node_modules/

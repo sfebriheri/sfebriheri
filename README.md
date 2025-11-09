@@ -91,8 +91,4 @@ hobbies:
 </div>
 
 ###
-<div align="center">
 
-  <img src="https://raw.githubusercontent.com/sfebriheri/sfebriheri/output/snake.svg" alt="Snake animation" />
-
-</div>

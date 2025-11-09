@@ -44,8 +44,3 @@ Reliable importer 📊
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sfebriheri&theme=dark" alt="GitHub Streak" />
 </div>
 
-###
-<div align="center">
-  <source media="https://raw.githubusercontent.com/sfebriheri/sfebriheri/output/snake.svg">
-</div>
-

@@ -90,10 +90,9 @@ hobbies:
 
 </div>
 
----
-
+###
 <div align="center">
 
-**Thanks for visiting! Have a great day! ✨**
+  <img src="https://raw.githubusercontent.com/sfebriheri/sfebriheri/output/snake.svg" alt="Snake animation" />
 
 </div>

@@ -3,3 +3,6 @@ profile-readme-generator/
 
 # Ignore dependencies in root repo
 node_modules/
+
+# Ignore GitHub Actions workflows
+.github/workflows/
